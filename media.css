@@ -57,5 +57,12 @@
         width:80%;
         height: auto;
         margin: auto;
+
+        
     }
+
+    .img_about{
+        width: 2px;
+    }
+    
 }
